@@ -7,4 +7,4 @@ Life is not forever.
 
 Link King is.
 
-![The Link King](lk.png)
+![The Link King](http://the-link-king.party/lk.png)

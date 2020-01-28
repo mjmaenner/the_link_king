@@ -2,8 +2,12 @@
 layout: page
 title: The Link King
 ---
-<audio ref='themeSong' src="https://github.com/mjmaenner/the_link_king/blob/gh-pages/PrinceofDenmark_sMarch-Clarke.wav?raw=true" autoPlay></audio>
 
+  <audio preload="auto" autoplay="autoplay">
+    <source src="https://github.com/mjmaenner/the_link_king/blob/gh-pages/PrinceofDenmark_sMarch-Clarke.wav?raw=true"  type="audio/wav" />
+  </audio>
+  
+  
 Life is not forever.
 
 Link King is.

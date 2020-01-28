@@ -3,9 +3,8 @@ layout: page
 title: The Link King
 ---
   
-
-  <iframe src="https://github.com/mjmaenner/the_link_king/blob/gh-pages/PrinceofDenmark_sMarch-Clarke.wav?raw=true" allow="autoplay" id="audio"></iframe>
-
+ <source src="https://github.com/mjmaenner/the_link_king/blob/gh-pages/PrinceofDenmark_sMarch-Clarke.wav?raw=true"  type="audio/wav" />
+  </audio>
 
 
 Life is not forever.

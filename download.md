@@ -43,6 +43,7 @@ You should be able to launch The Link King by double-clicking the shortcut.
 
   b)  Launch SAS and run the following code in a program editor to launch
    The Link King:
+   
 ```SAS
     libname undup 'C:\link king';
     dm 'Af c=undup.undup_frames_64bit.intro.frame';
@@ -55,6 +56,7 @@ maximize The Link King interface.
 ##### 4. For 32-bit/Unix installations
 
   a) After completing #2 (above), unpack the SAS transport file undup_frames.cpt:
+  
 ```SAS
   libname output 'y:\buzz\delete';  /* change the path to the location where you want to save  undup_frames for the link king  */
 
@@ -68,15 +70,16 @@ NOTE: you must delete the undup_frames catalog before unpacking the transport fi
 
 b)     See if the "Summon Link King 32" shortcut works.
 
-  If not, modify the properties of the "Summon Link King 32" shortcut and/or lk_config_32.cfg
+If not, modify the properties of the "Summon Link King 32" shortcut and/or lk_config_32.cfg
 
-                or
+   or
 
-     Launch SAS and run the following code in a program editor to launch The Link King:
+Launch SAS and run the following code in a program editor to launch The Link King:
 
 ```SAS 
    libname undup 'C:\link king';
    dm 'Af c=undup.undup_frames.intro.frame';
 ```
+
 After launch, close the explorer/results windows on the left side of the screen and    
 maximize The Link King interface.

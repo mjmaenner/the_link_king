@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-The Link King was created by Dr. Kevin Campbell and Camelot Consulting and the materials are hosted here with permission.  It is no longer updated and the original Link King site (the-link-king.com) is no longer online (though many of the materials are available through the [Internet Archive Wayback Machine](https://web.archive.org/web/20190619181842/http://the-link-king.com/index.html).) 
+The Link King was created by Dr. Kevin Campbell and Camelot Consulting and materials are hosted here with permission.  The Link King is no longer updated and the original Link King site (the-link-king.com) is offline (though still accessable through the [Internet Archive Wayback Machine](https://web.archive.org/web/20190619181842/http://the-link-king.com/index.html).) 
 
-Although it is no longer maintained, we are not aware of software that matches The Link King on all these features:
+Although this project is no longer maintained, we are not aware of software that matches The Link King on all these features:
   * good performance
   * easily integrated into public health analysts' workflows
   * useable GUI 

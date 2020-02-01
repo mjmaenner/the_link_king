@@ -3,11 +3,12 @@ layout: page
 title: The Link King
 ---
 <audio controls src="https://github.com/mjmaenner/the_link_king/blob/gh-pages/PrinceofDenmark_sMarch-Clarke.wav?raw=true"  type="audio/wav" >
-  </audio>
-
+ </audio>
+  
+  
 <figure class="figure">
   <img src=" http://the-link-king.party/lk_logo.jpg" class="figure-img" alt="The Link King">
-  <figcaption class="figure-caption">[Logo by Reid Psaltis](https://www.reidpsaltis.com/)</figcaption>
+  <figcaption class="figure-caption">Logo by Reid Psaltis (www.reidpsaltis.com/)</figcaption>
 </figure>
 
   

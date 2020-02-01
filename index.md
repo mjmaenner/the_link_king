@@ -5,6 +5,13 @@ title: The Link King
 <audio controls src="https://github.com/mjmaenner/the_link_king/blob/gh-pages/PrinceofDenmark_sMarch-Clarke.wav?raw=true"  type="audio/wav" >
   </audio>
   
+  <figure class="image">
+  <img src="{{ http://the-link-king.party/lk_logo.jpg }}" alt="{{ The Link King }}">
+  <figcaption>{{ [Logo by Reid Psaltis](https://www.reidpsaltis.com/)}}</figcaption>
+</figure>
+  
+![The Link King](http://the-link-king.party/lk_logo.jpg)
+  
 ### Record Linkage and Consolidation Software
 
 In the realm of record linkage and unduplication software (aka. dedupe
@@ -51,4 +58,3 @@ Best of all, [download](http://the-link-king.party/download.html)  The Link King
 * Race/Ethnicity
 
 
-![The Link King](http://the-link-king.party/lk_logo.jpg)

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Downloads
+---
+
 These are the final programs released on the-link-king.com.  They are made available here with permission of the original author. We cannot provide any support or warranty for these materials.
 
 Versions:

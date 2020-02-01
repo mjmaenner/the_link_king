@@ -4,13 +4,12 @@ title: The Link King
 ---
 <audio controls src="https://github.com/mjmaenner/the_link_king/blob/gh-pages/PrinceofDenmark_sMarch-Clarke.wav?raw=true"  type="audio/wav" >
   </audio>
-  
-  <figure class="image">
-  <img src="{{ http://the-link-king.party/lk_logo.jpg }}" alt="{{ The Link King }}">
-  <figcaption>{{ [Logo by Reid Psaltis](https://www.reidpsaltis.com/)}}</figcaption>
+
+<figure class="figure">
+  <img src=" http://the-link-king.party/lk_logo.jpg" class="figure-img" alt="The Link King">
+  <figcaption class="figure-caption">[Logo by Reid Psaltis](https://www.reidpsaltis.com/)</figcaption>
 </figure>
-  
-![The Link King](http://the-link-king.party/lk_logo.jpg)
+
   
 ### Record Linkage and Consolidation Software
 

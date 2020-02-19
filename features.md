@@ -1,4 +1,8 @@
-## Features
+---
+layout: page
+title: Features
+---
+
 
   * Probabilistic Record Linkage Algorithm
   * Deterministic Record Linkage Algorithm

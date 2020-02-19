@@ -31,8 +31,10 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
+  - features.md
   - download.md
   - about.md
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
